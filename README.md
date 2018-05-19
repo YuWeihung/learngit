@@ -1,2 +1,2 @@
 Hello world!
-Created a new branch.
+Chinese is a language.
