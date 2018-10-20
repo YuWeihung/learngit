@@ -1,0 +1,3 @@
+/mnt/d/Github/learngit/Source/CMakeFiles/rebuild_cache.dir
+/mnt/d/Github/learngit/Source/CMakeFiles/hello.dir
+/mnt/d/Github/learngit/Source/CMakeFiles/edit_cache.dir

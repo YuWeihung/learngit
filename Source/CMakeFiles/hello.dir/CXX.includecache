@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Github/learngit/Source/hello.cpp
+iostream
+-
+hello.h
+/mnt/d/Github/learngit/Source/hello.h
+
+/mnt/d/Github/learngit/Source/hello.h
+
+/mnt/d/Github/learngit/Source/main.cpp
+iostream
+-
+hello.h
+/mnt/d/Github/learngit/Source/hello.h
+
